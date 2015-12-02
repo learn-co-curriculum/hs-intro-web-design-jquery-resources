@@ -10,3 +10,4 @@ jQuery got you feeling confused? Don't worry! Check out these resources and keep
 - [Book: Manning - jQuery in Action 3rd Edition](http://www.manning.com/derosa/)
 - [Free books on jQuery (it-ebooks)](http://www.it-ebooks.info/tag/jquery/)
 - [10 Things I Learned from jQuery Source](http://www.paulirish.com/2010/10-things-i-learned-from-the-jquery-source/)
+<a href='https://learn.co/lessons/hs-intro-web-design-jquery-resources' data-visibility='hidden'>View this lesson on Learn.co</a>
